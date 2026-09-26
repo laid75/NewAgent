@@ -1,0 +1,6 @@
+{
+  "name": "مساعد العيادة الذكي الجزائر - AI Clinic Call Receptionist",
+  "description": "وكيل ذكاء اصطناعي صوتي وهاتفي متطور للرد على مكالمات عيادات ومراكز الطب في الجزائر وحجز المواعيد بالدارجة الجزائرية والعربية والفرنسية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
