@@ -127,8 +127,8 @@ export default function App() {
             </div>
 
             {/* Left: AI Status & Telecom Guide Button */}
-            <div className="flex items-center gap-2.5">
-              <div className="hidden lg:flex items-center gap-2 bg-slate-50 border border-slate-200/80 px-3 py-1.5 rounded-xl text-xs">
+            <div className="flex items-center gap-2">
+              <div className="hidden xl:flex items-center gap-2 bg-slate-50 border border-slate-200/80 px-3 py-1.5 rounded-xl text-xs">
                 <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
                 <span className="text-slate-700 font-semibold">وكيل الهاتف الذكي:</span>
                 <span className="text-emerald-700 font-bold">ياسمين في الخدمة 24/7</span>
@@ -139,8 +139,8 @@ export default function App() {
                 className="px-3.5 py-2 rounded-xl text-xs font-bold bg-slate-900 hover:bg-slate-800 text-white flex items-center gap-2 transition shadow-sm active:scale-95"
               >
                 <Server className="w-4 h-4 text-emerald-400" />
-                <span className="hidden sm:inline">ربط الخطوط الهاتفية في الجزائر</span>
-                <span className="sm:hidden">ربط الهاتف</span>
+                <span className="hidden sm:inline">ربط الخطوط الهاتفية</span>
+                <span className="sm:hidden">الربط</span>
               </button>
             </div>
           </div>
